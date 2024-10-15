@@ -1,20 +1,20 @@
-1	Vacinas contra a Covid-19 são mais perigosas que o próprio vírus	0
-2	Vacina tem como objetivo matar seres humanos	0
-3	Profissionais de saúde morrem por ataque cardíaco em decorrência da vacina	0
-4	Butantan não confirma eficácia da CoronaVac em idosos	0
-5	Vacinas de RNA mensageiro vão provocar morte em massa entre idoso	0
-6	A vacina contra a Covid-19 vai modificar o DNA dos seres humanos	0
-7	A vacina contra a Covid-19 tem chip líquido e inteligência artificial para controle populacional	0
-8	Imunizantes contra Covid-19 estão relacionados à transmissão de HIV	0
-9	Vacinas contra Covid-19 criam campo magnético no corpo de quem é imunizado	0
-10	CoronaVac não tem comprovação científica	0
-11	Pandemia acentuou queda de vacinação no Brasil	1
-12	Brasil tem mais baixa cobertura da vacina tríplice viral desde 2015, diz Ministério da Saúde	1
-13	Maioria dos municípios brasileiros não atingiu a meta de cobertura para vacinas do calendário infantil em 2023	1
-14	Brasil avança na imunização e sai da lista dos 20 países com mais crianças não vacinadas	1
-15	Brasil recebe primeiro lote de vacinas atualizadas contra variante da Covid-19	1
-16	A vacinação infantil contra covid-19 oferecida pelo SUS é segura	1
-17	O Brasil não é o único país a exigir vacinação de Covid-19 para crianças e adolescentes	1
-18	Vacina nacional contra covid está em fase avançada, diz ministra	1
-19	Em 2023, 88,2% das pessoas de 5 anos ou mais haviam tomado pelo menos 2 doses de vacina contra covid-19	1
-20	Vacinas contra a Covid-19 não tem relação com “câncer turbo” — Secretaria de Comunicação Social	1
+Vacinas contra a Covid-19 são mais perigosas que o próprio vírus	0
+Vacina tem como objetivo matar seres humanos	0
+Profissionais de saúde morrem por ataque cardíaco em decorrência da vacina	0
+Butantan não confirma eficácia da CoronaVac em idosos	0
+Vacinas de RNA mensageiro vão provocar morte em massa entre idoso	0
+A vacina contra a Covid-19 vai modificar o DNA dos seres humanos	0
+A vacina contra a Covid-19 tem chip líquido e inteligência artificial para controle populacional	0
+Imunizantes contra Covid-19 estão relacionados à transmissão de HIV	0
+Vacinas contra Covid-19 criam campo magnético no corpo de quem é imunizado	0
+CoronaVac não tem comprovação científica	0
+Pandemia acentuou queda de vacinação no Brasil	1
+Brasil tem mais baixa cobertura da vacina tríplice viral desde 2015, diz Ministério da Saúde	1
+Maioria dos municípios brasileiros não atingiu a meta de cobertura para vacinas do calendário infantil em 2023	1
+Brasil avança na imunização e sai da lista dos 20 países com mais crianças não vacinadas	1
+Brasil recebe primeiro lote de vacinas atualizadas contra variante da Covid-19	1
+A vacinação infantil contra covid-19 oferecida pelo SUS é segura	1
+O Brasil não é o único país a exigir vacinação de Covid-19 para crianças e adolescentes	1
+Vacina nacional contra covid está em fase avançada, diz ministra	1
+Em 2023, 88,2% das pessoas de 5 anos ou mais haviam tomado pelo menos 2 doses de vacina contra covid-19	1
+Vacinas contra a Covid-19 não tem relação com “câncer turbo” — Secretaria de Comunicação Social	1
