@@ -1,1 +1,1 @@
-# tcc_noticiasfalsas_ilum
+# Modelo de Detecção de Notícias Falsas
