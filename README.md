@@ -16,3 +16,11 @@
 <h3> Notebook 2: <a href = https://github.com/Thomazellinho/tcc_noticiasfalsas_ilum/blob/main/2_pre_processamento.ipynb> Pré-processamento </a> </h3>
 <li> Aqui será feito o pré-processamento dos dados coletados anteriormente, de modo que seja possível uma melhor análise futura. </li>
 
+<h3> Notebook 3: <a href = https://github.com/Thomazellinho/tcc_noticiasfalsas_ilum/blob/main/3_analise_frequencia.ipynb> Análise de Frequência </a> </h3>
+<li> Neste Notebook estão os códigos destinados ao melhor entendimento dos títulos coletados, sendo feita uma análise da frequência de termos, tanto para títulos, quanto para o corpo dos textos.  </li>
+
+<h3> Notebook 4: <a href = https://github.com/Thomazellinho/tcc_noticiasfalsas_ilum/blob/main/4_tcc_titulos.ipynb> Títulos </a> </h3>
+<li> Neste Notebook estão os códigos destinados a predição de notícias a partir dos títulos. Estão presentes treino, teste e validação com dados externos.  </li>
+
+<h3> Notebook 5: <a href = https://github.com/Thomazellinho/tcc_noticiasfalsas_ilum/blob/main/5_tcc_corpo_texto.ipynb> Corpos do texto </a> </h3>
+<li> Neste Notebook estão os códigos destinados a predição de notícias a partir dos corpos do texto. Estão presentes treino, teste e validação com dados externos.  </li>
